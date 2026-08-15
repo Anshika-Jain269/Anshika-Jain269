@@ -24,6 +24,6 @@ I'm a Computer Science Engineering student focused on building practical softwar
 - Backend Development
 
 ### 🔗 Connect With Me
-- [LinkedIn](anshika-jain-4313163b2)
+- [LinkedIn](https://www.linkedin.com/in/anshika-jain-4313163b/)
 - [LeetCode](https://leetcode.com/xrVBuV6DHt)
 - [GitHub](https://github.com/Anshika-Jain269)
