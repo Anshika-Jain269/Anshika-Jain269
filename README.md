@@ -20,13 +20,13 @@ I am a **3rd Year B.Tech Computer Science Engineering student** focused on build
 ## 🛠️ Technical Skills
 
 ### Programming
-**Java** • **JavaScript** • **SQL**
+**Java** • **SQL**
 
 ### Core Computer Science
 **Data Structures & Algorithms** • **OOP** • **DBMS** • **Operating Systems** • **Computer Networks**
 
 ### Web & Backend
-**HTML** • **CSS** • **JavaScript** • **React** • **Node.js** • **Express.js** • **MongoDB**
+**HTML** • **CSS** • **Node.js** • **Express.js** • **MongoDB**
 
 ### Tools
 **Git** • **GitHub** • **VS Code**
