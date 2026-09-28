@@ -6,63 +6,59 @@
 
 ## 👋 About Me
 
-I am a **3rd Year B.Tech Computer Science Engineering student** focused on building strong programming fundamentals and developing practical software solutions.
+I am a **3rd Year B.Tech Computer Science Engineering student** focused on strengthening programming fundamentals, problem-solving skills, and practical software development.
 
-- 💻 Strong focus on **Java and Data Structures & Algorithms**
-- 🧠 Strengthening **Problem Solving and Core CS Fundamentals**
-- 🗄️ Working with **SQL, DBMS and OOP**
-- 🌐 Exploring **Backend Development**
-- 🚀 Building practical projects to apply concepts and improve development skills
-- 🤝 Open to **collaboration, internships and software development opportunities**
+* 💻 Strong focus on **Java and Data Structures & Algorithms**
+* 🧠 Strengthening **Problem Solving and Core CS Fundamentals**
+* 🗄️ Working with **SQL, DBMS and OOP**
+* 🌐 Exploring **Backend Development**
+* 🚀 Building practical projects to apply programming concepts
+* 🤝 Open to **collaboration, internships and software development opportunities**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming
+
 **Java** • **SQL**
 
 ### Core Computer Science
+
 **Data Structures & Algorithms** • **OOP** • **DBMS** • **Operating Systems** • **Computer Networks**
 
 ### Web & Backend
-**HTML** • **CSS** • **Node.js** • **Express.js** • **MongoDB**
+
+**HTML** • **CSS** • **JavaScript** • **Node.js** • **Express.js** • **MongoDB**
 
 ### Tools
+
 **Git** • **GitHub** • **VS Code**
 
 ---
 
 ## 📌 Current Focus
 
-- 🧩 Solving **DSA problems using Java**
-- ☕ Strengthening **Java & OOP fundamentals**
-- 🗄️ Improving **SQL & DBMS**
-- 🌐 Learning **Backend Development**
-- 💻 Building and improving **real-world projects**
-- 🎯 Preparing for **Software Development / SDE opportunities**
+* 🧩 Solving **DSA problems using Java**
+* ☕ Strengthening **Java & OOP fundamentals**
+* 🗄️ Improving **SQL & DBMS**
+* 🌐 Learning **Backend Development**
+* 💻 Building practical software projects
+* 🎯 Preparing for **Software Development / SDE opportunities**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛡️ SheShield
-Women safety platform providing safety-focused features such as emergency assistance, location-based services and reporting.
+
+A women safety platform providing features for emergency assistance, location-based services, reporting and safety support.
 
 **Tech:** HTML • CSS • JavaScript • Firebase • APIs
 
-### 🏙️ Smart Complaint System
-A platform for managing citizen complaints and connecting users with appropriate service resolvers.
+### 🎓 Java OOP Projects
 
-**Tech:** React • Node.js • Express.js • MongoDB
-
-### 📧 AI-Powered Email Threat Detection
-An email security and forensic intelligence platform designed to analyze emails for potential phishing, spoofing and other threats.
-
-**Focus:** Email Security • AI/ML • Header Analysis • Forensics
-
-### 🏦 Bank Management System
-Java-based banking application demonstrating object-oriented programming, collections and transaction management.
+A collection of Java projects focused on strengthening **object-oriented programming, collections, classes, objects and real-world problem solving**.
 
 **Tech:** Java • OOP • Collections
 
@@ -70,20 +66,21 @@ Java-based banking application demonstrating object-oriented programming, collec
 
 ## 📈 Problem Solving
 
-- 💡 Regularly practicing **Data Structures & Algorithms**
-- 🧩 Solving problems on **LeetCode**
-- 📚 Following a structured DSA preparation roadmap
-- 🎯 Focused on improving both **problem-solving ability and code quality**
+* 💡 Regularly practicing **Data Structures & Algorithms**
+* 🧩 Solving problems on **LeetCode**
+* ☕ Using **Java** for DSA practice
+* 📚 Following a structured DSA preparation roadmap
+* 🎯 Focused on improving problem-solving skills and writing clean, efficient code
 
 ---
 
 ## 🎯 Career Goals
 
-- 🚀 Secure a **Software Development Internship / SDE Opportunity**
-- 📚 Build strong **DSA and Core CS fundamentals**
-- ☕ Become highly proficient in **Java**
-- 🌐 Develop strong **Backend Development skills**
-- 🛠️ Build scalable and practical software projects
+* 🚀 Secure a **Software Development Internship / SDE Opportunity**
+* 📚 Strengthen **DSA and Core CS fundamentals**
+* ☕ Become highly proficient in **Java**
+* 🌐 Develop strong **Backend Development skills**
+* 🛠️ Build practical and scalable software projects
 
 ---
 
